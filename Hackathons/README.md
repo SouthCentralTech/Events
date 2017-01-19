@@ -1,4 +1,4 @@
-# Hackahtons
+# Hackathons
 
 Please submit pull request to add new slide for hackathons.
 
